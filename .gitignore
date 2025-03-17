@@ -1,0 +1,7 @@
+.venv/
+learner/__pycache__/
+lightning_logs/*/
+weight/*/
+picture/
+*.ipynb/
+/gif/
